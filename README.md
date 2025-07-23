@@ -10,8 +10,12 @@ BOM:
 Others:
 •	KMK Firmware
 •	Macropad case.STEP
-Schematic	PCB	Case
+
+<img width="1916" height="1058" alt="image" src="https://github.com/user-attachments/assets/96244b4a-708e-47bc-aeb3-3c0a251035a0" />
+
+My Challenges:
+It's my first time designing a pcb in Fusion 360 so it took me a while to figure out how to route on the back side:))).
  	 	 
 
 
-<img width="540" height="639" alt="image" src="https://github.com/user-attachments/assets/4d2ec75b-c3a3-4033-976a-8c330d4e8efc" />
+
