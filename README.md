@@ -9,7 +9,9 @@ BOM:
 +	4x M3 Heatset
 + 8xM2x50 Bolt ( Have at home)
 + 8xM2 Heatset (Have at home)
--Others:
+
+  
+- Others:
 +	KMK Firmware
 +	Macropadcase.STEP
 +	Macropadcaselid.STEP
