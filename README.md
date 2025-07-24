@@ -2,7 +2,7 @@
 Specifications
 BOM:
 + 10x Cherry MX Switches
-+	6x LC8812B LED
++	6x SK6812 LED
 +	1x XIAO RP2040
 +	10x Blank DSA Keycaps
 +	4x M3x16 Bolt
