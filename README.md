@@ -7,8 +7,8 @@ BOM:
 +	10x Blank DSA Keycaps
 +	4x M3x16 Bolt
 +	4x M3 Heatset
-+ 8xM2x50 Bolt ( Have at home)
-+ 8xM2 Heatset (Have at home)
++   8xM2x50 Bolt ( Have at home)
++   8xM2 Heatset (Have at home)
 
   
 - Others:
@@ -23,6 +23,7 @@ I designed some pegs to hold the lid, PCB, and case together with the M2 bolt.
 
 My Challenges:
 It's my first time designing a PCB in Fusion 360, so it took me a while to figure out how to route on the back side:))).
+Also I'm not a good reader so I had to reupload the files to Github because I didn't read the board size correctly'
  	 	 
 
 
