@@ -9,7 +9,9 @@ BOM:
 •	4x M3 Heatset
 Others:
 •	KMK Firmware
-•	Macropad case.STEP
+•	Macropadcase.STEP
+•	Macropadcaselid.STEP
+
 
 <img width="1638" height="908" alt="image" src="https://github.com/user-attachments/assets/87cc3b10-3421-4fd5-b6b6-e3254cc73572" />
 
