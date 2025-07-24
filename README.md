@@ -7,16 +7,19 @@ BOM:
 •	10x Blank DSA Keycaps
 •	4x M3x16 Bolt
 •	4x M3 Heatset
+- 8xM2x50 Bolt ( Have at home)
+- 8xM2 Heatset
 Others:
 •	KMK Firmware
 •	Macropadcase.STEP
 •	Macropadcaselid.STEP
 
+I designed some pegs to hold the lid, PCB,and  case together with the M2 bolt.
 
-<img width="1638" height="908" alt="image" src="https://github.com/user-attachments/assets/87cc3b10-3421-4fd5-b6b6-e3254cc73572" />
+<img width="1946" height="1282" alt="image" src="https://github.com/user-attachments/assets/70082bf8-7d66-450e-a7bf-fad45743015c" />
 
 My Challenges:
-It's my first time designing a pcb in Fusion 360 so it took me a while to figure out how to route on the back side:))).
+It's my first time designing a PCB in Fusion 360, so it took me a while to figure out how to route on the back side:))).
  	 	 
 
 
