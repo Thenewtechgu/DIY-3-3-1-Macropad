@@ -17,9 +17,8 @@ BOM:
 +	Macropadcaselid.STEP
 + Peg.STEP
 
-I designed some pegs to hold the lid, PCB, and case together with the M2 bolt.
+<img width="1988" height="1316" alt="image" src="https://github.com/user-attachments/assets/31c3848d-50e5-42c2-99ba-41d91c069e93" />
 
-<img width="1946" height="1282" alt="image" src="https://github.com/user-attachments/assets/70082bf8-7d66-450e-a7bf-fad45743015c" />
 
 My Challenges:
 It's my first time designing a PCB in Fusion 360, so it took me a while to figure out how to route on the back side:))).
