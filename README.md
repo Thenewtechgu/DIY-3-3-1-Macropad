@@ -17,7 +17,7 @@ BOM:
 +	Macropadcaselid.STEP
 + Peg.STEP
 
-<img width="1988" height="1316" alt="image" src="https://github.com/user-attachments/assets/31c3848d-50e5-42c2-99ba-41d91c069e93" />
+<img width="973" height="605" alt="image" src="https://github.com/user-attachments/assets/bad816fc-bcf7-40d0-88bc-cdbcaf1cae5f" />
 
 
 My Challenges:
